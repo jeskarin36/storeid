@@ -124,7 +124,7 @@ export const getCurrentUser=async()=>{
    return parseStringify(user.documents[0])
 
    } catch (error) {
-    console.log(error)
+    console.log(error+"hlaaa")
    }
 
 
